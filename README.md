@@ -161,7 +161,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 - **Created by:** Wasif Sohail
 - **Email:** [wasifsohail66@gmail.com](mailto:wasifsohail66@gmail.com)
-- **GitHub:** [github.com/Wasif-Sohail55](https://github.com/Wasif-Sohail55)
+- **GitHub:** [github.com/Wasif-Sohail55](https://github.com/Wasif-Sohail5)
 - **Repository:** [Weapon-Detection-System](https://github.com/WasifSohail5/Weapon-Detection-System)
 - **Last Updated:** May 18, 2025
 
