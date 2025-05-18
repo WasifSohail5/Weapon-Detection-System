@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Ultralytics%20YOLO-v8.3.138-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/Model-mAP50_79.7%25-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Last%20Updated-May%2018%2C%202025-red?style=flat-square"/>
 </div>
 
 ---
@@ -85,8 +86,8 @@ weapon_detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/weapon-detection-yolov8.git
-cd weapon-detection-yolov8
+git clone https://github.com/WasifSohail5/Weapon-Detection-System.git
+cd Weapon-Detection-System
 ```
 
 ### 2. Install Requirements
@@ -159,8 +160,10 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📧 Contact
 
 - **Created by:** Wasif Sohail
-- **Email:** [your-email@example.com]
+- **Email:** [wasifsohail66@gmail.com](mailto:wasifsohail66@gmail.com)
 - **GitHub:** [github.com/Wasif-Sohail55](https://github.com/Wasif-Sohail55)
+- **Repository:** [Weapon-Detection-System](https://github.com/WasifSohail5/Weapon-Detection-System)
+- **Last Updated:** May 18, 2025
 
 ---
 
