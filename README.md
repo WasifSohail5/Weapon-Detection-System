@@ -127,7 +127,7 @@ model.export(format='onnx', imgsz=640, half=True, simplify=True, opset=12, dynam
 
 | Input Image | Prediction |
 |-------------|------------|
-| <img src="runs/detect/val2/val_batch0_labels.jpg" width="200"/> | <img src="runs/detect/val2/val_batch0_pred.jpg" width="200"/> |
+| <img src="/results/input.jpg" width="200"/> | <img src="/results/result.jpg" width="200"/> |
 
 ---
 
