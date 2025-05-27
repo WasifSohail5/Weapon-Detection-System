@@ -430,11 +430,11 @@ def image_detection_page():
 
         with sample_col1:
             if st.button("Sample 1"):
-                uploaded_file = "sample_images/weapon1.jpg"
+                uploaded_file = "sample_images/sample_image1.jpg"
 
         with sample_col2:
             if st.button("Sample 2"):
-                uploaded_file = "sample_images/weapon2.jpg"
+                uploaded_file = "sample_images/sample_image2.jpg"
 
         # Detection threshold
         conf_threshold = st.slider("Confidence threshold", min_value=0.1, max_value=0.9, value=0.25, step=0.05)
@@ -594,7 +594,7 @@ def video_detection_page():
         # Sample videos
         st.markdown("### Or try a sample video")
         if st.button("Sample Video"):
-            uploaded_file = "sample_videos/video1.mp4"
+            uploaded_file = "sample_video/sample_video1.mp4"
 
         # Detection parameters
         conf_threshold = st.slider("Confidence threshold", min_value=0.1, max_value=0.9, value=0.25, step=0.05)
