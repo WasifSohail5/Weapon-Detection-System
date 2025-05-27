@@ -30,7 +30,7 @@ This implementation is based on the research paper [**"Comprehensive Study on We
 
 ### 🔥 Confusion Matrix Example
 
-<img src="runs/detect/val2/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
+<img src="/Visualization/confusion_matrix.png" width="400"/>
 
 ---
 
