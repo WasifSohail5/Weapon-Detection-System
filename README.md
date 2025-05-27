@@ -116,10 +116,10 @@ model.export(format='onnx', imgsz=640, half=True, simplify=True, opset=12, dynam
 ## 📈 Results Visualization
 
 - **Precision-Recall Curve**  
-  ![](runs/detect/val2/PR_curve.png)
+  ![](/Visualization/PR_curve.png)
 
 - **F1 Curve**  
-  ![](runs/detect/val2/F1_curve.png)
+  ![](/Visualization/F1_curve.png)
 
 ---
 
