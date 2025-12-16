@@ -1,5 +1,5 @@
 # 🔫 Weapon Detection Using YOLOv8
-
+ 
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-2.6.0-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ultralytics%20YOLO-v8.3.138-green?style=flat-square"/>
